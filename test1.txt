@@ -2,7 +2,7 @@
 -----
 *****
 ------
-edit b1
+edit b
 edit b2
 test
 456
